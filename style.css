@@ -1,0 +1,36 @@
+#quiz {
+    width: auto;
+    height: 250px;
+    padding: 100px;
+    border: 3px solid #708090;
+    margin: 25px;
+    border-radius: 3px;
+    box-shadow: 5px 5px #dbd7d2;
+    text-align: center;
+    background-color: #e8485f;
+
+}
+#header1 {
+    position: relative;
+    font-size: small;
+    color: #3aff24;
+    top: 10px;
+    left: 10px;
+    height: auto;
+    width: 50px;
+    margin: 5px;
+    padding: 0px;
+
+
+
+}
+#header2 {
+    position: fixed;
+    font-size: small;
+    color: #2444ff;
+    
+}
+.headers {
+   
+    flex-direction: row;
+}
