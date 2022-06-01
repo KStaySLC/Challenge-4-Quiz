@@ -1,4 +1,4 @@
-#quiz {
+.quiz {
     width: 800px;
     max-width: 90%;
     display: flex;
@@ -10,7 +10,7 @@
     height: 100vh;
     border: 3px solid black;
     border-radius: 3px;
-    margin: 25px;
+    margin: auto;
     box-shadow: 5px 5px #dbd7d2;
     text-align: center;
     background-color: #e8485f;
@@ -31,13 +31,13 @@
 
 }
 .header1 {
-    justify-content: center;
+    /* justify-content: center; */
     margin-right: 60px;
     margin-left: 60px;
     
 }
 .header2 {
-    justify-content: center;
+    /* justify-content: center; */
     margin-left: 60px;
     margin-right: 60px;
 }
