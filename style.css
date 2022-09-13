@@ -1,3 +1,6 @@
+body {
+    background-color: #99e823;
+}
 .quiz {
     width: 800px;
     max-width: 90%;
@@ -6,7 +9,6 @@
     align-items: center;
     align-content: center;
     border-radius: 5px;
-    /* width: 100vh; */
     height: 100vh;
     border: 3px solid black;
     border-radius: 3px;
@@ -31,13 +33,13 @@
 
 }
 .header1 {
-    /* justify-content: center; */
+
     margin-right: 60px;
     margin-left: 60px;
     
 }
 .header2 {
-    /* justify-content: center; */
+
     margin-left: 60px;
     margin-right: 60px;
 }
@@ -48,7 +50,7 @@
     background-color: #708090;
 }
 
-.button-grid {
+#answers {
     display: grid;
     gap: 10px;
     margin: 20px 0;
